@@ -1,0 +1,81 @@
+.content-fragment {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: .2rem ;
+    min-height: 600px;
+    min-width: 500px;
+    width: 60%;
+    margin: 1rem auto;
+    background: white;
+    padding: .8rem;
+}
+
+table {
+    /*font-size: .4rem;*/
+    margin: .4rem;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td:first-child {
+    background: #A012EED9;
+    color: white;
+    padding: .4rem .8rem;
+}
+
+th, td {
+    font-size: .8em;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    border-color: white;
+}
+
+td {
+    background: whitesmoke;
+}
+
+th:first-child, td:first-child {
+    text-align: left;
+}
+
+table .btn {
+    font-size: 1.2em;
+    display: inline-block;
+    padding: .2rem;
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    /*border-radius: .4rem;*/
+    /*color: red;*/
+    /*padding: 10px;*/
+    transition: 0.4s ease-in;
+}
+
+table .btn:hover {
+    color: white;
+}
+
+table .close {
+    color: red;
+}
+
+table .edit {
+    color: orange;
+}
+
+.add-form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: .3rem;
+    border-bottom: 2px solid whitesmoke;
+}
+
+.add-form input {
+    width: 12rem;
+    display: block;
+    padding: .3rem;
+    margin: .2rem;
+}

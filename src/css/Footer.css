@@ -1,0 +1,12 @@
+footer {
+    display: flex;
+    align-items: center;
+    background: #7109AA;
+    color: white;
+    padding: .2rem;
+}
+
+footer .title {
+    padding-left: .4rem;
+    padding-right: .7rem;
+}
