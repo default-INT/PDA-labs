@@ -1,3 +1,11 @@
+### Приложение справочник единиц измерения
+
+Приложение реализовывалось с помощью React.js. В качестве БД использовался Firebase
+
+![app](https://sun9-8.userapi.com/xnMhtAWYy1ZFmPOPs_3hT7iehn-st47M5W5cIQ/dS8BvloObAs.jpg)
+
+![loading](https://sun9-54.userapi.com/dayKW5IvVw_Pb7Aep78k094ZOpdv80paBB_edQ/-JvemIBys5U.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
